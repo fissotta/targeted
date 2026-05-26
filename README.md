@@ -4,6 +4,9 @@ A resumable QIIME 2 comparative pipeline for paired-end amplicon sequencing data
 
 The pipeline supports multi-database taxonomic classification, checkpoint-based recovery, downstream statistical analysis, differential abundance testing, and publication-ready SVG plots.
 
+# Classifiers:
+https://library.qiime2.org/data-resources
+
 ---
 
 ## Overview
